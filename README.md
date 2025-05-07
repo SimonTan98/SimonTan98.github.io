@@ -10,4 +10,4 @@ Thank you for visiting!
 ## Projects
 [Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML](https://github.com/SimonTan98/Eventsite "Link to Eventsite repository")
 ![Eventsite Homepage](https://github.com/SimonTan98/SimonTan98.github.io/blob/main/images/EventsiteHomepage.png "Eventsite homepage")
-<img href="./images/EventsiteHomepage.png">
+<img src="./images/EventsiteHomepage.png">
