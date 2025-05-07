@@ -8,6 +8,20 @@ If you have an questions or wish to contact me, you can email me at simon.tan109
 Thank you for visiting!
 
 ## Projects
-[Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML](https://github.com/SimonTan98/Eventsite "Link to Eventsite repository")
-![Eventsite Homepage](https://github.com/SimonTan98/SimonTan98.github.io/blob/main/images/EventsiteHomepage.png "Eventsite homepage")
-<img src="./images/EventsiteHomepage.png">
+<ol>
+  <li>
+    [Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML](https://github.com/SimonTan98/Eventsite "Link to Eventsite repository")
+    <img src="./images/EventsiteHomepage.png" alt="Homepage of Eventsite" title="Eventsite Homepage">
+  </li>
+  <li>
+    [TinyToolRental - Inventory/Customer Data Mangement Software for a tool rental store written in OracleDB/MSSQLServer/MSAccess](https://github.com/SimonTan98/TinyToolRental "Link to TinyToolRental repository")
+    <img src="./images/ToolRentalDB.png" alt="TinyToolRental Customer Form" title="TinyToolRental Customer Form">
+  </li>
+  <li>
+    [RecipeManager - Recipe Manager application written in Java](https://github.com/SimonTan98/RecipeManager "Link to RecipeManager repository")
+  </li>
+  <li>
+    [FitnessTracker - Fitness Tracker application written in Java](https://github.com/SimonTan98/RecipeManager "Link to FitnessTracker repository")
+  </li>
+</ol>
+
