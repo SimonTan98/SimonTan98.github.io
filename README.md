@@ -10,18 +10,18 @@ Thank you for visiting!
 ## Projects
 <ol>
   <li>
-    [Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML](https://github.com/SimonTan98/Eventsite "Link to Eventsite repository")
+    <a href="https://github.com/SimonTan98/Eventsite">Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML</a>
     <img src="./images/EventsiteHomepage.png" alt="Homepage of Eventsite" title="Eventsite Homepage">
   </li>
   <li>
-    [TinyToolRental - Inventory/Customer Data Mangement Software for a tool rental store written in OracleDB/MSSQLServer/MSAccess](https://github.com/SimonTan98/TinyToolRental "Link to TinyToolRental repository")
+    <a href="https://github.com/SimonTan98/TinyToolRental">TinyToolRental - Inventory/Customer Data Mangement Software for a tool rental store written in OracleDB/MSSQLServer/MSAccess</a>
     <img src="./images/ToolRentalDB.png" alt="TinyToolRental Customer Form" title="TinyToolRental Customer Form">
   </li>
   <li>
-    [RecipeManager - Recipe Manager application written in Java](https://github.com/SimonTan98/RecipeManager "Link to RecipeManager repository")
+    <a href="https://github.com/SimonTan98/RecipeManager">RecipeManager - Recipe Manager application written in Java</a>
   </li>
   <li>
-    [FitnessTracker - Fitness Tracker application written in Java](https://github.com/SimonTan98/RecipeManager "Link to FitnessTracker repository")
+    <a href="https://github.com/SimonTan98/FitnessTracker">FitnessTracker - Fitness Tracker application written in Java</a>
   </li>
 </ol>
 
