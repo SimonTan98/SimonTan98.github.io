@@ -10,6 +10,9 @@ Thank you for visiting!
 ## Projects
 <ol>
   <li>
+    <a href="https://github.com/SimonTan98/PublicTransitManagementSystem">Public Transit Management System - Web Application written in Java</a>
+  </li>
+  <li>
     <a href="https://github.com/SimonTan98/Eventsite">Eventsite - Event Planning Website written in PHP/Javascript/CSS/HTML</a>
     <img src="./images/EventsiteHomepage.png" alt="Homepage of Eventsite" title="Eventsite Homepage">
   </li>
